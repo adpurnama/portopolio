@@ -1,0 +1,113 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+#header{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+nav{
+    background-color: chartreuse;
+}
+/* #header nav a{
+    text-decoration: none; */
+/* } */
+#background{
+    width: 100%;
+}
+.jumbotron{
+    background-color: white;
+}
+#imgback img{
+    border-radius: 20%;
+    width: 25rem;
+    height: 25rem;   
+    padding-left: 30px;
+}
+#profile{
+    text-align: center;
+    margin-top: 10%;
+}
+.blog{
+    background-color: teal;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 7%;
+    margin-top: 5.5rem;
+}
+#gblog img{
+    width: 80%;
+}
+.resume{
+    background-color: violet;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10%;
+    margin-top: 4%;
+}
+#skill{
+    text-align: center;
+    margin-top: 3%;
+}
+#skill i{
+    font-size: 30px;
+}
+.skill{
+    text-align: center;
+}
+.skill li{
+    list-style: none;
+    font-size: 50px;
+}
+.row li{
+    list-style: none;
+}
+#contact{
+    text-align: center;
+    height: 50rem;
+}
+.contact{
+    background-color: wheat;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 10%;
+    margin-top: 4%;
+}
+#listcontact{
+    margin-top: 5%;
+}
+#github i{
+    text-align: center;
+    font-size: 30px;
+}
+#github h3 a{
+    text-align: center;
+    color: black;
+}
+#instagram i{
+    text-align: center;
+    font-size: 30px;
+}
+#instagram h3 a{
+    text-align: center;
+    color: black;
+}
+#facebook i{
+    text-align: center;
+    font-size: 30px;
+}
+#facebook h3 a{
+    text-align: center;
+    color: black;
+}
+#gmail i{
+    text-align: center;
+    font-size: 30px;
+}
+#gmail h3 a{
+    text-align: center;
+    color: black;
+}
